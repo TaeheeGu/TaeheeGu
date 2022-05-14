@@ -1,6 +1,6 @@
 ### Hi 👋
 
-![TaeheeGu's github stats](https://github-readme-stats.vercel.app/api?username=TaeheeGu&show_icons=true)
+![good-da22's github stats](https://github-readme-stats.vercel.app/api?username=good-da22&show_icons=true)
  
 [**Notion**](https://goodda22.notion.site/Taehee_Gu-19d164759f7940b0ae66e8d12ba393b1)
 
